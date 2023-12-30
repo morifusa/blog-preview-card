@@ -32,8 +32,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/morifusa/blog-preview-card/)
+- Live Site URL: [](https://main--dashing-hummingbird-de343d.netlify.app/)
 
 ## My process
 Trance design images onto Figma to trace the side of components, radius, font size, padding to indentify CSS properties.
